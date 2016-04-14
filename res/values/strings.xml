@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">监控管理</string>
+    <string name="toast_network_failed">网络连接错误，请检查后重试</string>
+    <string name="toast_wrong_register_code">授权码或公司标识错误，请重新输入</string>
+    <string name="toast_exceed_register_count">授权码注册产品数量已达到上限</string>
+    <string name="toast_wrong_service_param">服务器参数错误</string>
+  <string name="unauthorized_msg">设备未授权</string>
+</resources>
